@@ -12,16 +12,4 @@ public class Movement {
         this.amount = amount;
         this.communication = message;
     }
-
-    public String getFromAccount() {
-        return fromAccount;
-    }
-
-    public double getAmount() {
-        return amount;
-    }
-
-    public String getCommunication() {
-        return communication;
-    }
 }
